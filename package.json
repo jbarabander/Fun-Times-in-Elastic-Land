@@ -1,0 +1,21 @@
+{
+  "name": "fun-times-in-elastic-land",
+  "version": "1.0.0",
+  "description": "My repo for trying out elastic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Barabander",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^13.0.0",
+    "elasticsearch": "^10.1.3",
+    "express": "^4.13.4",
+    "react": "^0.14.7",
+    "superagent": "^1.7.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
